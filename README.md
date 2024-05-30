@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To run, first install the dependencies via the "NPM INSTALL" command ******************************
+To run, first install the dependencies via the "NPM INSTALL" command *********************************************
 then "npm start"***********************************************************************************
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
