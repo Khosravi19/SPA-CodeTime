@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90e31326.css",
+    "main.js": "/static/js/main.561ddc51.js",
+    "static/media/Lalezar.ttf": "/static/media/Lalezar.241ca811c53de4ed36a4.ttf",
+    "static/media/Monitor codetime.jpg": "/static/media/Monitor codetime.af20085c6d5204dd26bd.jpg",
+    "static/media/bootstrap-course.png": "/static/media/bootstrap-course.0b1f5c73ad1fd38310e4.png",
+    "static/media/Vazir.ttf": "/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/AR-1.jpg": "/static/media/AR-1.48669e4f00c78533c73a.jpg",
+    "static/media/AR-4.jpg": "/static/media/AR-4.b305b623abb9c0fb6018.jpg",
+    "static/media/AR-2.jpg": "/static/media/AR-2.864b0d90efb50540d9ee.jpg",
+    "static/media/framworks.png": "/static/media/framworks.552408d21cdeddc794e6.png",
+    "static/media/AR-3.jpg": "/static/media/AR-3.9b637e045abf53e800ae.jpg",
+    "static/media/samandehi.png": "/static/media/samandehi.91e6770ed057f2b471ef.png",
+    "static/media/redux-course.jpg": "/static/media/redux-course.75d761fc07bd21023a73.jpg",
+    "static/media/react-course.jpg": "/static/media/react-course.2925890c8c1e2a4822b1.jpg",
+    "static/media/Js_course.jpg": "/static/media/Js_course.7468427371f3a7c77d2c.jpg",
+    "static/media/Majazi.png": "/static/media/Majazi.b477f2cec2e5d7de7203.png",
+    "index.html": "/index.html",
+    "main.90e31326.css.map": "/static/css/main.90e31326.css.map",
+    "main.561ddc51.js.map": "/static/js/main.561ddc51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e31326.css",
+    "static/js/main.561ddc51.js"
+  ]
+}
