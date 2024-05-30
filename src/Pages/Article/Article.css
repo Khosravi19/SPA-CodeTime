@@ -1,0 +1,13 @@
+.title {
+    font-family: 'Lalezar', sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    color: #444;
+    margin: 0 10px 10px 10px;
+    padding-inline: 60px;
+}
+
+.clicked {
+    border-bottom: 4px solid #00A6E6;
+    border-top: 4px solid #06A4E1;
+}

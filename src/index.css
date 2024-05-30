@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url(../src/assets/Fonts/Vazir.ttf);
+}
+
+@font-face {
+  font-family: 'SVazir';
+  src: url(../src/assets/Fonts/Vazir.ttf);
+}
+
+@font-face {
+  font-family: 'Lalezar';
+  src: url(../src/assets/Fonts/Lalezar.ttf);
+}
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Vazir' , sans-serif;
+}
